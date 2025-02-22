@@ -1,2 +1,2 @@
 # Code-Portfolio
-Coding Samples
+All of my coding projects.
