@@ -1,0 +1,25 @@
+/* for linked fonts in the fonts folder */
+
+/* 
+@font-face {
+  font-family: "Manrope";
+  src: url("Manrope-Regular.ttf");
+}
+*/
+
+main{
+  font-family:"Manrope", "courier new", sans-serif;
+  font-size:20px;
+
+}
+
+h2{
+  font-family:"Manrope", "courier new", sans-serif;
+  font-size:1em;
+  font-weight: bold;
+
+}
+
+p{
+
+}
